@@ -1,0 +1,8 @@
+{
+  "name": "Anju - Mumbaichi AI",
+  "description": "A young, sassy, and witty AI assistant from Mumbai powered by Gemini Live. Real-time voice interaction with a distinct flirty and playful personality.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
